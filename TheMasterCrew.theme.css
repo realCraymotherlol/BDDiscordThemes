@@ -1,0 +1,45 @@
+.appMount-3lHmkl .app-2rEoOp {
+	background: url(https://images.alphacoders.com/151/151713.jpg) 30%/cover;
+}
+
+.sidebar-2K8pFh,
+.container-2lgZY8,
+.theme-dark .layer-3QrUeG,
+.theme-dark .wrapper-1Rf91z,
+.theme-dark .scroller-2TZvBN,
+.scroller-305q3I,
+.contentRegionScroller-26nc1e,
+.sidebarRegionScroller-3MXcoP,
+.scroller-2TZvBN {
+	background-color: transparent;
+}
+
+.scroller-zPkAnE,
+.scroller-2XE8rp {
+	background-color: transparent;
+}
+
+.theme-dark .app-2rEoOp{
+   --background-primary: transparent;
+   --background-secondary: transparent;
+   --deprecated-panel-background: transparent;
+   --background-tertiary: transparent;
+}
+
+.container-3baos1, .container-3baos1{
+    border-radius: 11px;
+	--background-secondary-alt: transparent;
+    background: linear-gradient(0deg, rgba(45,227,253,0.43461134453781514) 0%, rgba(34,193,195,0) 69%);
+}
+
+.theme-dark .layers-3iHuyZ {
+	background: rgba(0, 0, 0, 0.6);
+}
+
+.theme-dark .scrollableContainer-2NUZem{
+  --channeltextarea-background: #7990b938;
+}
+
+.theme-dark, .container-3baos1, .container-3baos1{
+	--background-secondary-alt: transparent;
+}
